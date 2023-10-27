@@ -1,0 +1,16 @@
+.fade-enter,
+.fade-exit {
+  opacity: 0;
+  z-index: 1;
+}
+
+.fade-enter-active,
+.fade-exit-active {
+  opacity: 1;
+  transition: opacity 300ms ease-in-out;
+}
+
+.route-section {
+  position: absolute;
+  width: 100%;
+}

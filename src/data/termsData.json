@@ -1,0 +1,32 @@
+{
+  "termsAndConditions": {
+    "title": "Terms and Conditions",
+    "lastModified": "Last modified: June 3rd, 2023",
+    "intro": "By using the CodingSolution.com website and making use of Coding Solution, a service offered by Coding Solution Pte. Ltd. ('the Company'), you are agreeing to be bound by the following Terms and Conditions. These Terms and Conditions cover all present and future features provided by your Coding Solution account individually and collectively referred to as the 'Service'.",
+    "sections": [
+      {
+        "heading": "Users of the Service",
+        "content": "This Service is provided exclusively to individuals who are at least 16 years of age. Accounts registered by 'bots' or automated methods are not authorized and will be terminated. Each user is solely responsible for all of his, her, or their messages sent through the Service."
+      },
+      {
+        "heading": "Use of the Service",
+        "content": "You agree to not use this Service for any unlawful or prohibited activities. You also agree to not disrupt the Company's networks and servers. ... (and so on for each section)"
+      }
+    ]
+  },
+  "privacyPolicy": {
+    "title": "Privacy Policy",
+    "lastModified": "Last modified: June 3rd, 2023",
+    "intro": "The company Coding Solution is delighted that you have visited our website and that you are interested in our company and products. We respect your privacy and take the protection of your personal data seriously. We, therefore, rely on your trustworthy cooperation when you visit our websites.",
+    "sections": [
+      {
+        "heading": "Compliance and Usage",
+        "content": "Compliance with the statutory provisions on privacy and data security is obvious to us. Our employees and agents are obligated to comply with the legal requirements of the provisions under data protection law. By using the CodingSolution.com website and making use of Coding Solution (the 'Service'), you understand that your data in relation to your use of our Service is processed according to the following Privacy Policy. The Services are offered by Coding Solution Pte. Ltd. (the 'Company' or 'We'). This Privacy Policy explains what information we collect through your access and use of our Services. The use we make of such information, and the security level we provide for protecting such information. This Privacy Policy is to be read and understood as being a complement to our Terms and Conditions."
+      },
+      {
+        "heading": "Data related to the opening of an account",
+        "content": "Any email address and personal name provided to us is considered personal data as defined and protected by the Data Processing Agreement (DPA). Such data will only be used to contact you with important notifications about the Services, to send you information related to security, to send you an invitation link to create your Coding Solution account, to verify your Coding Solution account, or to send you password recovery links."
+      }
+    ]
+  }
+}

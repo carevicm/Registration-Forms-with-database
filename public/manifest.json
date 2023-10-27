@@ -1,0 +1,22 @@
+{
+  "name": "SignIn and SignUp Forms",
+  "short_name": "Forms",
+  "description": "Create an account or sign in to access your account.",
+  "icons": [
+    {
+      "src": "logo1.webp",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "logo1.webp",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4A90E2"      
+}
