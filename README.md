@@ -6,9 +6,14 @@ Built on the foundation of Vite.js, React.js, and styled with Tailwind.css, this
 and user-friendly interface for both sign-in and sign-up processes. The backend is powered by Node.js and Express, 
 and integrates middleware for added security, utilizing MongoDB Atlas with Mongoose for efficient data storage and management. 
 The implementation showcases advanced user authentication mechanisms, error handling, rate limiting, and CORS setup, offering a highly scalable and robust system.
+The system allows users to seamlessly create accounts, delete them, or change their passwords, ensuring a comprehensive and intuitive user experience.
 
 Features:
 
+Dynamic Form Loading: Implements lazy loading to enhance performance during form rendering.
+User Account Creation: Enables users to sign up using their email, phone number, and a secure password.
+Password Management: Provides mechanisms for users to change their passwords seamlessly.
+Account Deletion: Users can permanently delete their accounts, ensuring data privacy and compliance.
 Dynamic Form Loading: Implements lazy loading to enhance performance during form rendering.
 Tailored Input Experience: A dedicated phone number input component ensures consistent and structured data collection.
 Password Strength Indicator: Provides real-time feedback on password strength, guiding users to set secure passwords.
